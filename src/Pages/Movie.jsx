@@ -30,6 +30,7 @@ const Movie  = () => {
     } catch (err) {
       setError("Something went wrong!");
       console.error(err);
+      console.log("hey")
     }
   };
 

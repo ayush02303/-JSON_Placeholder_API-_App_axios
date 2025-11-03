@@ -1,4 +1,4 @@
-Access Link  : https://69085403d178dadab0d97b5a--jsonaxios-2019c4.netlify.app/
+Link  : https://69085403d178dadab0d97b5a--jsonaxios-2019c4.netlify.app/
 
 📝 JSON Placeholder API App
 
